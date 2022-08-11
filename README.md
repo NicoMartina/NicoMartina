@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoMartina
 - 👀 I’m interested in frontend oportunities to expand my knowledge
-- 🌱 I’m currently learning html, css, and JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project I am fit for
 - 📫 How to reach me via twitter.
 
