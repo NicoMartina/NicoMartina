@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NicoMartina.
 - 👀 I’m interested in  opportunities to expand my knowledge.
-- 🌱 I’m currently working with PHP and Laravel.
-- 🌱 My stack is HTML/CSS, JavaScript, React, NextJS, Redux, PHP, Laravel
-- 💞️ I’m looking to collaborate on any project I am fit for
+- 🌱 I’m currently a CS student speciallizing in Java graduating in 2025.
+- 🌱 My stack is HTML/CSS, JavaScript, React, Java.
+- 💞️ I’m looking to collaborate on any project I am fit for, just let me know!
 - 📫 How to reach me: email or WhatsApp.
 
 <!---
