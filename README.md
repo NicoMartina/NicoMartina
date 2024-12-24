@@ -30,10 +30,6 @@
   <!-- Add icons for languages and tools -->
 </p>
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turingproblem&show_icons=true&locale=en&layout=compact" alt="nicomartina" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turingproblem&show_icons=true&locale=en" alt="nicomartina" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turingproblem&" alt="nicomartina" /></p>
 
 
 <!---
