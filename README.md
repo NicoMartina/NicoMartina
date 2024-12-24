@@ -1,5 +1,7 @@
-👋 𝙷𝚒, 𝙸'𝚖 Nico
-𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 **Argentina**
+<div align="center" style="background-color: #1A1A1A; color: white; padding: 20px;">
+  <h1>👋 𝙷𝚒, 𝙸'𝚖 𝙰𝚗𝚍𝚛𝚎𝚠</h1>
+  <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 **Boston**</h3>
+</div>
 
 
 - 👀 I’m interested in  opportunities to expand my knowledge.
