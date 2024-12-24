@@ -23,6 +23,19 @@
   <a href="https://discord.gg/690963831823794227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="690963831823794227" height="30" width="40" /></a>
 </p>
 
+
+<!-- Languages and Tools Section -->
+<h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
+<p align="left">
+  <!-- Add icons for languages and tools -->
+</p>
+
+<!-- GitHub Stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turingproblem&show_icons=true&locale=en&layout=compact" alt="nicomartina" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turingproblem&show_icons=true&locale=en" alt="nicomartina" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turingproblem&" alt="nicomartina" /></p>
+
+
 <!---
 NicoMartina/NicoMartina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
