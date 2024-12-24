@@ -14,6 +14,15 @@
 - 📝 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 C/C++, Java
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 Java, Data structures, Computer Science
 
+<!-- Social Media Links -->
+<h3 align="left">Connect with me!</h3>
+<p align="left">
+  <!-- Add other social media icons as needed -->
+  <a href="https://twitter.com/nicomartina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicomartina" height="30" width="40" /></a>
+  <a href="https://instagram.com/ilnicomartina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilnicomartina" height="30" width="40" /></a>
+  <a href="https://discord.gg/690963831823794227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="690963831823794227" height="30" width="40" /></a>
+</p>
+
 <!---
 NicoMartina/NicoMartina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
