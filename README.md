@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @NicoMartina.
+                                                                                        👋 𝙷𝚒, 𝙸'𝚖 Nico
+                                                                                 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 **Boston**
+
+
+
+
 - 👀 I’m interested in  opportunities to expand my knowledge.
 - 🌱 I’m currently a CS student speciallizing in Java graduating in 2025.
 - 🌱 My stack is HTML/CSS, JavaScript, React, Java.
