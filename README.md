@@ -22,9 +22,14 @@
 <h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
 <p align="left">
   <!-- Add icons for languages and tools -->
-  ![381385640-133ca61a-6165-4d22-8c31-a398f2376cbe](https://github.com/user-attachments/assets/e7296eea-3de6-45c3-be65-cb9928af31dd)
-  </p>
+</p>
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turingproblem&" alt="turingproblem" /></p> -->
+![image](https://github.com/user-attachments/assets/133ca61a-6165-4d22-8c31-a398f2376cbe)
+![image](https://github.com/user-attachments/assets/b10b60c7-5f10-47f9-b567-55d7e3f65746)
+![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667](https://github.com/user-attachments/assets/54420eb5-df92-4549-836a-d7e1528f5164)
+![image](https://github.com/user-attachments/assets/b688dd3d-4cde-4877-8f18-090e4b2c60dc)
+======================================================
 
 
 <!---
