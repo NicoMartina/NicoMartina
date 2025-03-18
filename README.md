@@ -22,7 +22,8 @@
 <h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
 <p align="left">
   <!-- Add icons for languages and tools -->
-</p>
+  ![381385640-133ca61a-6165-4d22-8c31-a398f2376cbe](https://github.com/user-attachments/assets/e7296eea-3de6-45c3-be65-cb9928af31dd)
+  </p>
 
 
 
