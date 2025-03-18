@@ -13,7 +13,7 @@
 <p align="left">
   <!-- Add other social media icons as needed -->
   <a href="https://twitter.com/ilnicomartina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicomartina" height="30" width="40" /></a>
-  <a href="[https://instagram.com/ilnicomartina](https://www.instagram.com/nicomartina__/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilnicomartina" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/nicomartina__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilnicomartina" height="30" width="40" /></a>
   <a href="https://discord.gg/690963831823794227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="690963831823794227" height="30" width="40" /></a>
 </p>
 
