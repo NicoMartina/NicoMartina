@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #1A1A1A; color: white; padding: 20px;">
-  <h1>👋 𝙷𝚒, 𝙸'𝚖 Nico</h1>
+  <h1>👋 𝙷𝚒, 𝙸'𝚖 Nicko</h1>
   <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 **Argentina**</h3>
 </div>
 
